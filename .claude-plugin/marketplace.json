@@ -1,0 +1,19 @@
+{
+    "name": "isa_tools",
+    "owner": {
+        "name": "isabelle",
+        "email": "isa.bidou@gmail.com"
+    },
+    "plugins": [
+        {
+            "name": "independant-reviewer",
+            "source": "./independant-reviewer",
+            "description": "Carry out a comprehensive review of all the changes since the last commit and provide feedback",
+            "version": "1.0.0",
+            "author": {
+                "name": "isabelle"
+            }
+        }
+    ]
+}
+    
